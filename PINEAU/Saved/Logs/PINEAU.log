@@ -2299,3 +2299,75 @@ Scale3D: 1.000000 1.000000 1.000000
 [2019.12.04-15.11.44:283][351]LogSavePackage: Moving 'D:/Unreal Projects/RenduCyril/UE4CyrilRendu/PINEAU/Saved/Overview_BuiltData187F4CD246E2E2EDE12626B9A7E78CDC.tmp' to 'D:/Unreal Projects/RenduCyril/UE4CyrilRendu/PINEAU/Content/PINEAU/Maps/Overview_BuiltData.uasset'
 [2019.12.04-15.11.49:796][751]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
 [2019.12.04-15.11.49:840][751]LogSavePackage: Moving 'D:/Unreal Projects/RenduCyril/UE4CyrilRendu/PINEAU/Saved/Anim_Zombie_Jump_IdleF9107B8240D95F4ADA7CB1B224B5AFE0.tmp' to 'D:/Unreal Projects/RenduCyril/UE4CyrilRendu/PINEAU/Content/PINEAU/Characters/Animations/Anim_Zombie_Jump_Idle.uasset'
+[2019.12.04-15.12.32:600][879]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-15.12.37:395][273]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-15.12.59:613][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-15.13.03:662][330]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-15.13.17:662][420]Cmd: DELETE
+[2019.12.04-15.13.17:688][420]Cmd: ACTOR DELETE
+[2019.12.04-15.13.17:693][420]LogEditorActor: Deleted Actor: Brush
+[2019.12.04-15.13.17:732][420]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2019.12.04-15.13.17:745][420]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2019.12.04-15.13.18:149][454]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-15.13.23:916][  4]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-15.13.41:146][675]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-15.14.02:501][746]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-15.14.22:567][674]LogSlate: Window 'Pick Physical Material Class' being destroyed
+[2019.12.04-15.14.40:400][316]LogAssetEditorManager: Opening Asset editor for PhysicalMaterial /Game/PINEAU/Materials/PhysicalMaterial_Standard.PhysicalMaterial_Standard
+[2019.12.04-15.14.45:893][767]LogSlate: Window 'PhysicalMaterial_Standard' being destroyed
+[2019.12.04-15.14.45:897][767]LogSlate: Window 'PhysicalMaterial_Standard' being destroyed
+[2019.12.04-15.14.45:940][767]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2019.12.04-15.14.45:948][767]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2019.12.04-15.14.53:111][767]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2019.12.04-15.14.53:125][767]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2019.12.04-15.14.53:172][767]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2019.12.04-15.14.55:180][767]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2019.12.04-15.14.55:215][767]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2019.12.04-15.14.55:350][767]LogEditorViewport: Clicking on Actor (context menu): Brush (Box Brush)
+[2019.12.04-15.14.55:386][767]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.04-15.14.55:395][767]LogEditorViewport: Clicking on Actor (context menu): Brush (Box Brush)
+[2019.12.04-15.14.55:435][767]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.04-15.14.58:970][105]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-15.15.07:038][891]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.04-15.15.09:920][196]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.04-15.15.11:579][360]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-15.15.12:795][471]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2019.12.04-15.15.14:142][471]LogSlate: Window 'Delete Assets' being destroyed
+[2019.12.04-15.15.14:242][471]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2019.12.04-15.16.51:740][880]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-15.16.53:533][ 70]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2019.12.04-15.16.59:927][784]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.04-15.16.59:935][784]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PINEAU/Maps/Overview" FILE="D:/Unreal Projects/RenduCyril/UE4CyrilRendu/PINEAU/Content/PINEAU/Maps/Overview.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.04-15.16.59:971][784]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2019.12.04-15.17.00:232][784]LogSavePackage: Moving 'D:/Unreal Projects/RenduCyril/UE4CyrilRendu/PINEAU/Saved/OverviewEC139CFB42ED87E405C27CB8BEAED87D.tmp' to 'D:/Unreal Projects/RenduCyril/UE4CyrilRendu/PINEAU/Content/PINEAU/Maps/Overview.umap'
+[2019.12.04-15.17.00:269][784]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PINEAU/Maps/Overview_BuiltData" FILE="D:/Unreal Projects/RenduCyril/UE4CyrilRendu/PINEAU/Content/PINEAU/Maps/Overview_BuiltData.uasset" SILENT=true
+[2019.12.04-15.17.00:289][784]LogSavePackage: Moving 'D:/Unreal Projects/RenduCyril/UE4CyrilRendu/PINEAU/Saved/Overview_BuiltDataDC97F120414539D2251C78A4E487E761.tmp' to 'D:/Unreal Projects/RenduCyril/UE4CyrilRendu/PINEAU/Content/PINEAU/Maps/Overview_BuiltData.uasset'
+[2019.12.04-15.17.37:397][876]LogGeometryMode: Warning: Unable to find BoxBrush18_40 Brush(s) in new BSP
+[2019.12.04-15.17.37:397][876]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.12.04-15.17.57:794][ 43]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.04-15.17.57:803][ 43]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PINEAU/Maps/Overview" FILE="D:/Unreal Projects/RenduCyril/UE4CyrilRendu/PINEAU/Content/PINEAU/Maps/Overview.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.04-15.17.57:840][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2019.12.04-15.17.58:076][ 43]LogSavePackage: Moving 'D:/Unreal Projects/RenduCyril/UE4CyrilRendu/PINEAU/Saved/Overview90A01CB846737B0065909EB9FF24025E.tmp' to 'D:/Unreal Projects/RenduCyril/UE4CyrilRendu/PINEAU/Content/PINEAU/Maps/Overview.umap'
+[2019.12.04-15.17.58:112][ 43]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PINEAU/Maps/Overview_BuiltData" FILE="D:/Unreal Projects/RenduCyril/UE4CyrilRendu/PINEAU/Content/PINEAU/Maps/Overview_BuiltData.uasset" SILENT=true
+[2019.12.04-15.17.58:127][ 43]LogSavePackage: Moving 'D:/Unreal Projects/RenduCyril/UE4CyrilRendu/PINEAU/Saved/Overview_BuiltDataC7E83C18406D54E2C764FCA652C7387B.tmp' to 'D:/Unreal Projects/RenduCyril/UE4CyrilRendu/PINEAU/Content/PINEAU/Maps/Overview_BuiltData.uasset'
+[2019.12.04-15.18.02:809][535]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-15.18.02:872][541]LogEditorViewport: Clicking Background
+[2019.12.04-15.21.39:464][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-15.21.56:499][497]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2019.12.04-15.21.58:124][672]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2019.12.04-15.22.03:627][241]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2019.12.04-15.22.04:377][319]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2019.12.04-15.22.05:384][429]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2019.12.04-15.22.05:932][482]Cmd: EDCALLBACK SURFPROPS
+[2019.12.04-15.22.59:250][130]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-15.23.09:021][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-15.23.09:079][ 29]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2019.12.04-15.23.10:466][173]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-15.23.12:160][357]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-15.23.34:206][734]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-15.23.36:448][987]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.04-15.23.36:455][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PINEAU/Maps/Overview" FILE="D:/Unreal Projects/RenduCyril/UE4CyrilRendu/PINEAU/Content/PINEAU/Maps/Overview.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.04-15.23.36:493][987]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2019.12.04-15.23.36:755][987]LogSavePackage: Moving 'D:/Unreal Projects/RenduCyril/UE4CyrilRendu/PINEAU/Saved/Overview9FEB4FFF4F42719DEAB150B1E16FEDBA.tmp' to 'D:/Unreal Projects/RenduCyril/UE4CyrilRendu/PINEAU/Content/PINEAU/Maps/Overview.umap'
+[2019.12.04-15.23.36:790][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PINEAU/Maps/Overview_BuiltData" FILE="D:/Unreal Projects/RenduCyril/UE4CyrilRendu/PINEAU/Content/PINEAU/Maps/Overview_BuiltData.uasset" SILENT=true
+[2019.12.04-15.23.36:811][987]LogSavePackage: Moving 'D:/Unreal Projects/RenduCyril/UE4CyrilRendu/PINEAU/Saved/Overview_BuiltData7F9B14BA4CB70378ADF648BB0AE5B40B.tmp' to 'D:/Unreal Projects/RenduCyril/UE4CyrilRendu/PINEAU/Content/PINEAU/Maps/Overview_BuiltData.uasset'
